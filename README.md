@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about Docker and Microservices
 - 👯 I’m looking to collaborate on Open Source Projects and find the best internship for my last year of studies
 - 💬 Ask me about Software development
-- 📫 How to reach me:[aicha.gasri@gmail.com] (mailto:aicha.gasri@gmail.com)
+- 📫 How to reach me:[aicha.gasri@gmail.com] 
 - ⚡ Fun fact: I have my own world wide selling business and Etsy shop for artisanal handmade products
 
 ### Connect with me:
