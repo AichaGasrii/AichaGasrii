@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about Docker and Microservices
 - 👯 I’m looking to collaborate on Open Source Projects and find the best internship for my last year of studies
 - 💬 Ask me about Software development
-- 📫 How to reach me:[aicha.gasri@gmail.com] 
+- 📫 How to reach me: [aicha.gasri@gmail.com] 
 - ⚡ Fun fact: I have my own world wide selling business and Etsy shop for artisanal handmade products
 
 ### Connect with me:
@@ -43,3 +43,9 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5)
 ![SonarLint](https://img.shields.io/badge/-SonarLint-05122A?style=flat&logo=sonarlint)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)
+
+<!-- This section is optional if you want to show your streak stats -->
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AichaGasrii&theme=algolia)
+
