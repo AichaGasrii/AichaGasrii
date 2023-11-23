@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_LinkedIn_Profile-blue)]([[Aicha Gasri Linkedin Profile](https://www.linkedin.com/in/aicha-gasri/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aicha_Gasri-blue)]([[Aicha Gasri Linkedin Profile](https://www.linkedin.com/in/aicha-gasri/)])
 
 
 ### Languages and Tools:
