@@ -46,7 +46,7 @@
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aicha Gasrii&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AichaGasrii&theme=algolia)
 
 ### 📊 My GitHub Stats
 
