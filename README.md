@@ -44,6 +44,15 @@
 ![SonarLint](https://img.shields.io/badge/-SonarLint-05122A?style=flat&logo=sonarlint)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)
 
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aicha Gasrii&theme=algolia)
+
+### 📊 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AichaGasrii&show_icons=true&theme=algolia)
+
+
 <!-- This section is optional if you want to show your streak stats -->
 ### 🔥 Streak Stats
 
